@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  min-height: 5000px;
+}
+
+.scroller {
+  position: fixed;
+  height: 3px;
+  width: 0;
+  background-color: red;
+}
